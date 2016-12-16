@@ -96,3 +96,21 @@ a:hover {
 footer {
   background-color: #e6decf;
 }
+
+@media only screen and (min-width: 25em) {
+
+  .banner-content  {
+    width: 100%;
+    font-size: .5em;
+  }
+
+}
+
+@media only screen and (min-width: 35em) {
+
+  .banner-content  {
+    width: 100%;
+    font-size: 1em;
+  }
+
+}
