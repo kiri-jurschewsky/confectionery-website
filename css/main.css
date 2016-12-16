@@ -99,7 +99,7 @@ footer {
 @media only screen and (min-width: 18em) {
 
   .banner-content  {
-    font-size: .5em;
+    font-size: .75rem;
     bottom: 5;
     position: absolute;
     width: 100%;
