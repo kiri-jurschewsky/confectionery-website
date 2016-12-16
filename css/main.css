@@ -2,8 +2,12 @@ html {
   font-family: Merriweather, serif;
 }
 
-.logo {
-  text-align: center;
+.color-brand {
+  color: #f0d8bc;
+}
+
+.color-brand-dark {
+  color: #621b1f;
 }
 
 .img-flex {
@@ -23,14 +27,4 @@ html {
   bottom: 0%;
   left: 0;
   width: 100%;
-}
-
-.nav {
-  text-align: center;
-}
-
-.nav a {
-  text-decoration: none;
-  border-radius: 8px;
-
 }
