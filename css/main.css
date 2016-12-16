@@ -1,9 +1,16 @@
 html {
   font-family: Merriweather, serif;
 }
+h1 {
+    color: #621b1f;
+}
 
-.color-brand {
-  color: #f0d8bc;
+a {
+  color: #a8604a;
+}
+
+a:hover {
+  color: #2b0e0f;
 }
 
 .color-brand-dark {
