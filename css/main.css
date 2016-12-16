@@ -83,10 +83,11 @@ a:hover {
 }
 
 .prices {
-  color: #fefffa;
   background-image: url("../images/shave-chocolate.jpg");
+  color: #fff;
   background-size: 1500px;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 .about-us {
