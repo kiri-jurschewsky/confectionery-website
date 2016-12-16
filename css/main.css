@@ -1,16 +1,36 @@
 html {
   font-family: Merriweather, serif;
 }
+
 h1 {
-    color: #621b1f;
+  color: #fefffa;
+}
+
+h3 {
+  color: #d1895d;
 }
 
 a {
-  color: #a8604a;
+  color: #d1895d;
 }
 
 a:hover {
   color: #2b0e0f;
+}
+
+.nav a {
+  display: inline-block;
+  padding: 1rem;
+  text-decoration: none;
+}
+
+.nav {
+  position: relative;
+  background-color: #e6decf;
+}
+
+.masthead {
+  background-color: #621b1f;
 }
 
 .color-brand-dark {
