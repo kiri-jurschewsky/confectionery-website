@@ -27,7 +27,6 @@ a:hover {
 .nav {
   position: relative;
   background-color: #e6decf;
-  display: inline-block;
 }
 
 .masthead {
@@ -69,6 +68,16 @@ a:hover {
   color: #e6decf;
 }
 
+.end-note {
+  color: #621b1f;
+}
+
+.embed-item {
+  text-align: left;
+  float: left;
+  width: 50%;
+}
+
 .prices {
   background-color: #f5f2f0;
 }
@@ -80,17 +89,6 @@ a:hover {
 .contact {
   background-color: #621b1f;
   color: #fefffa;
-}
-
-.end-note {
-  color: #621b1f;
-}
-
-.embed-item {
-  text-align: left;
-  float: left;
-  width: 50%;
-  display: inline-grid;
 }
 
 footer {
