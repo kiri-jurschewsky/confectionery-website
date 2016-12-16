@@ -27,6 +27,7 @@ a:hover {
 .nav {
   position: relative;
   background-color: #e6decf;
+  display: inline-block;
 }
 
 .masthead {
