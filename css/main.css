@@ -67,3 +67,18 @@ a:hover {
   border-color: #d1895d;
   color: #e6decf;
 }
+
+.end-note {
+  color: #621b1f;
+}
+
+.embed-item {
+  text-align: left;
+  float: left;
+  width: 50%;
+  display: inline-grid;
+}
+
+footer {
+  background-color: #e6decf;
+}
