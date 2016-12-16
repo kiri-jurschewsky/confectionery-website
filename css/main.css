@@ -78,20 +78,24 @@ a:hover {
 .embed-item {
   text-align: left;
   float: left;
-  width: 50%;
+  width: 100%;
+
 }
 
 .prices {
-  background-color: #f5f2f0;
   color: #fefffa;
   background-image: url("../images/shave-chocolate.jpg");
-  background-repeat: no-repeat;
   background-size: 1500px;
   background-position: center;
 }
 
 .about-us {
   background-color: #f5f2f0;
+
+}
+
+strong {
+  text-align: center;
 }
 
 .contact {
@@ -110,4 +114,11 @@ footer {
     font-size: 1em;
   }
 
+  .prices {
+    color: #621b1f;
+  }
+
+  table {
+    color: #fefffa;
+  }
 }
