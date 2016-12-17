@@ -82,17 +82,12 @@ a:hover {
 
 }
 
-.prices {
-  background-image: url("../images/shave-chocolate.jpg");
-  color: #fff;
-  background-size: 1500px;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
 .about-us {
   background-color: #f5f2f0;
+}
 
+.prices {
+  color: #621b1f;
 }
 
 strong {
@@ -101,11 +96,13 @@ strong {
 
 .contact {
   background-color: #621b1f;
-  color: #fefffa;
+  color: #f5f2f0;
 }
 
 footer {
   background-color: #e6decf;
+  background: url("../images/chocolate.svg") center bottom / cover;
+  background-size: 67px auto;
 }
 
 @media only screen and (min-width: 35em) {
@@ -113,13 +110,5 @@ footer {
   .banner-content {
     width: 100%;
     font-size: 1em;
-  }
-
-  .prices {
-    color: #621b1f;
-  }
-
-  table {
-    color: #fefffa;
   }
 }
