@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #621b1f;
+  color: #2b0e0f;
 }
 
 .nav a {
@@ -55,7 +55,7 @@ a:hover {
 
 .banner-content {
   position: absolute;
-  font-size: .5em;
+  font-size: .3em;
   bottom: 0%;
   left: 0;
   width: 100%;
@@ -87,12 +87,12 @@ a:hover {
 }
 
 .about-us {
-  background-color: #e6decf;
+  background-color: #f5f2f0;
 }
 
 .prices {
   color: #621b1f;
-  background-color: #e6decf;
+  background-color: #fefffa;
 }
 
 strong {
@@ -109,4 +109,22 @@ footer {
   background: url("../images/chocolate.svg");
   background-color: #e6decf;
   color: #621b1f;
+}
+
+@media only screen and (min-width: 25em) {
+
+  .banner-content  {
+    width: 50%;
+    font-size: .2em;
+  }
+
+}
+
+@media only screen and (min-width: 35em) {
+
+  .banner-content  {
+    width: 100%;
+    font-size: 1em;
+  }
+
 }
