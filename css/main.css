@@ -7,7 +7,7 @@ h1 {
 }
 
 h2 {
-    color: #621b1f;
+  color: #621b1f;
 }
 
 h3 {
@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #2b0e0f;
+  color: #621b1f;
 }
 
 .nav a {
@@ -87,12 +87,12 @@ a:hover {
 }
 
 .about-us {
-  background-color: #f5f2f0;
+  background-color: #e6decf;
 }
 
 .prices {
   color: #621b1f;
-  background-color: #f5f2f0;
+  background-color: #e6decf;
 }
 
 strong {
@@ -101,21 +101,12 @@ strong {
 
 .contact {
   background-color: #621b1f;
-}
-
-form {
   color: #d1895d;
 }
 
 footer {
-  background-image: url("../images/chocolate.svg");
-  background-size: 67px auto;
-}
 
-@media only screen and (min-width: 35em) {
-
-  .banner-content {
-    width: 100%;
-    font-size: 1em;
-  }
+  background: url("../images/chocolate.svg");
+  background-color: #e6decf;
+  color: #621b1f;
 }
