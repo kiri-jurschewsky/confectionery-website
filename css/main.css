@@ -6,6 +6,10 @@ h1 {
   color: #fefffa;
 }
 
+h2 {
+    color: #621b1f;
+}
+
 h3 {
   color: #d1895d;
 }
@@ -88,6 +92,7 @@ a:hover {
 
 .prices {
   color: #621b1f;
+  background-color: #f5f2f0;
 }
 
 strong {
@@ -96,12 +101,14 @@ strong {
 
 .contact {
   background-color: #621b1f;
-  color: #f5f2f0;
+}
+
+form {
+  color: #d1895d;
 }
 
 footer {
   background-image: url("../images/chocolate.svg");
-  background-color: #e6decf;
   background-size: 67px auto;
 }
 
