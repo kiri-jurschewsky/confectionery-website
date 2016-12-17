@@ -100,8 +100,8 @@ strong {
 }
 
 footer {
+  background-image: url("../images/chocolate.svg");
   background-color: #e6decf;
-  background: url("../images/chocolate.svg") center bottom / cover;
   background-size: 67px auto;
 }
 
